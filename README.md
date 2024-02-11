@@ -21,7 +21,7 @@
 
 <h2>Pursuing certifications currenly</h2>
 
-- [Try hack me SOC Level 1 (20%)](https://tryhackme-badges.s3.amazonaws.com/MDIslam.png)
+- [Try hack me SOC Level 1 (20%)](https://tryhackme.com/badge/2621560)
 - [Comptia Security+ (50%)](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
 <h2> 🤳 Connect with me:</h2>
