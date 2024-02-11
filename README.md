@@ -3,17 +3,16 @@
 <h2> Cybersecurity Projects:</h2>
 
 - <b>Digital Forensics</b>
-  - [Investigate an image of a user's hard drive to uncover hidden files, password-protected archives, and messages hidden with Steganography.](https://github.com/msislam23/DigitalForensics)
+  - [Investigated an image of a user's hard drive to uncover hidden files, password-protected archives, and messages hidden with Steganography.](https://github.com/msislam23/DigitalForensics)
 - <b>Network Analysis</b>
-  - [Analysing Pcaps using wireshark to detect melicious activities](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Analyzed various PCAPs of malicious traffic using Wireshark from a mock compromised system](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Threat Hunting</b>
-  - [Create IOCs for real malware using Mandiant IOCe and analysing with fireeye Redline](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Generated IOCs for two actual malware using Mandiant IOCe and audited the system's disk image with Redline. ](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Vulnerability Management</b>
-  - [Scanning a vulnerable Metasploitable2 machine from Kali linux using NESSUS](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Using NMAP to find vulnerabilitiies in a machine](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Conduct a vulnerability assessment of Maetasploitable2 using Nessus to report discovered flaws](https://github.com/joshmadakor1/EncrypterPOC)
+- <b>Threat Intelligence</b>
+  - [Collect information from OSINT sources via social media to build a hacker profile and detect malicious behavior.](https://github.com/joshmadakor1/EncrypterPOC)
+ 
 
 <h2>Certifications</h2>
 
