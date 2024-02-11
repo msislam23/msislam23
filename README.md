@@ -3,7 +3,7 @@
 <h2> Cybersecurity Projects:</h2>
 
 - <b>Digital Forensics</b>
-  - [Using open source intelligence, analysing a disk image](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Using open source intelligence, analysing a disk image](https://github.com/msislam23/DigitalForensics)
 - <b>Network Analysis</b>
   - [Analysing Pcaps using wireshark to detect melicious activities](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Threat Hunting</b>
