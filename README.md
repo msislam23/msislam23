@@ -7,7 +7,7 @@
 - <b>Network Analysis</b>
   - [Analyzed various PCAPs of malicious traffic using Wireshark from a mock compromised system](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Threat Hunting</b>
-  - [Generated IOCs for two actual malware using Mandiant IOCe and audited the system's disk image with Redline. ](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Generated IOCs for two actual malware using Mandiant IOCe and audited the system's disk image with Redline. ](https://github.com/msislam23/ThreatHunting)
 - <b>Vulnerability Management</b>
   - [Conduct a vulnerability assessment of Maetasploitable2 using Nessus to report discovered flaws](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Threat Intelligence</b>
