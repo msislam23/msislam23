@@ -9,7 +9,7 @@
 - <b>Threat Hunting</b>
   - [Generated IOCs for two actual malware using Mandiant IOCe and audited the system's disk image with Redline. ](https://github.com/msislam23/ThreatHunting)
 - <b>Vulnerability Management</b>
-  - [Conduct a vulnerability assessment of Maetasploitable2 using Nessus to report discovered flaws](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Conduct a vulnerability assessment of Maetasploitable2 using Nessus to report discovered flaws](https://github.com/msislam23/VulnerabilityManagement)
 - <b>Threat Intelligence</b>
   - [Collect information from OSINT sources via social media to build a hacker profile and detect malicious behavior.](https://github.com/joshmadakor1/EncrypterPOC)
  
