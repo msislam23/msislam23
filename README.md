@@ -5,7 +5,7 @@
 - <b>Digital Forensics</b>
   - [Investigated an image of a user's hard drive to uncover hidden files, password-protected archives, and messages hidden with Steganography.](https://github.com/msislam23/DigitalForensics)
 - <b>Network Analysis</b>
-  - [Analyzed various PCAPs of malicious traffic using Wireshark from a mock compromised system](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Analyzed various PCAPs of malicious traffic using Wireshark from a mock compromised system](https://github.com/msislam23/NetworkAnalysis)
 - <b>Threat Hunting</b>
   - [Generated IOCs for two actual malware using Mandiant IOCe and audited the system's disk image with Redline. ](https://github.com/msislam23/ThreatHunting)
 - <b>Vulnerability Management</b>
