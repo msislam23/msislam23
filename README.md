@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sharif <br/> <a href="https://www.linkedin.com/in/joshmadakor/">Engineer</a>, <a href="https://www.youtube.com/c/joshmadakor">Aspiring cybersecurity professional</a></h1>
+<h1>Hi, I'm Sharif <br/> <a>Aspiring cybersecurity professional</a>, <a>Engineer</a></h1>
 
 <h2> Cybersecurity Projects:</h2>
 
