@@ -11,7 +11,7 @@
 - <b>Vulnerability Management</b>
   - [Conduct a vulnerability assessment of Maetasploitable2 using Nessus to report discovered flaws](https://github.com/msislam23/VulnerabilityManagement)
 - <b>Threat Intelligence</b>
-  - [Collect information from OSINT sources via social media to build a hacker profile and detect malicious behavior.](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Collect information from OSINT sources via social media to build a hacker profile and detect malicious behavior.](https://github.com/msislam23/OSINT)
  
 
 <h2>Certifications</h2>
