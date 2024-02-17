@@ -28,7 +28,7 @@
 - [Try hack me SOC Level 1 (21%)](https://tryhackme-badges.s3.amazonaws.com/MDIslam.png)
 - [Comptia Security+ (50%)](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> Connect with me:</h2>
 <img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
 
 
