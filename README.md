@@ -23,10 +23,10 @@
 - [Introduction to Threat Hunting](https://github.com/msislam23/msislam23/assets/157939065/f3f086da-310a-47fb-ac38-e1923ad0eb2a)
 - [Introduction to Vulnerability Management](https://github.com/msislam23/msislam23/assets/157939065/8ff6a3ff-f598-431f-8f7d-bde5672ec8eb)
 
-<h2>Pursuing certifications currenly</h2>
+<h2>Actively Pursuing </h2>
 
-- [Try hack me SOC Level 1 (21%)](https://tryhackme-badges.s3.amazonaws.com/MDIslam.png)
-- [Comptia Security+ (50%)](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Try hack me SOC Level 1](https://tryhackme-badges.s3.amazonaws.com/MDIslam.png)
+- Comptia Security+ 
 
 <h2> Connect with me:</h2>
 <img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
