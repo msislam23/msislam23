@@ -17,7 +17,7 @@
 <h2>Certifications</h2>
 
 - [Cybersecurity basic](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Blue Team Junior Analys]((https://github.com/msislam23/msislam23/files/14318891/Introduction.to.Digital.Forensics-course.pdf))
+- [Introduction to Digital Forensics](https://github.com/msislam23/msislam23/assets/157939065/d2371c2f-23d6-4d5d-b746-e65b220d71d3)
 - [Blue Team Junior Analys](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [Blue Team Junior Analys](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [Blue Team Junior Analys](https://www.youtube.com/watch?v=uHy3oM7NnoU)
