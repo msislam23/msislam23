@@ -18,10 +18,10 @@
 
 - [Cybersecurity basic](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [Introduction to Digital Forensics](https://github.com/msislam23/msislam23/assets/157939065/d2371c2f-23d6-4d5d-b746-e65b220d71d3)
-- [Blue Team Junior Analys](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Blue Team Junior Analys](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Blue Team Junior Analys](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Blue Team Junior Analys](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Introduction to  Network Analysis](https://github.com/msislam23/msislam23/assets/157939065/5579e1fc-b7f7-4669-839c-da5d66f574eb)
+- [Introduction to OSINT](https://github.com/msislam23/msislam23/assets/157939065/28e92b63-47cd-4937-9544-62afac06ce1b)
+- [Introduction to Threat Hunting](https://github.com/msislam23/msislam23/assets/157939065/f3f086da-310a-47fb-ac38-e1923ad0eb2a)
+- [Introduction to Vulnerability Management](https://github.com/msislam23/msislam23/assets/157939065/8ff6a3ff-f598-431f-8f7d-bde5672ec8eb)
 
 <h2>Pursuing certifications currenly</h2>
 
