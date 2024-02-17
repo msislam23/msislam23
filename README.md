@@ -25,8 +25,8 @@
 
 <h2>Actively Pursuing </h2>
 
-- [Try hack me SOC Level 1](https://tryhackme-badges.s3.amazonaws.com/MDIslam.png)
-- Comptia Security+ 
+- [SOC Level 1 --- Try hack me](https://tryhackme-badges.s3.amazonaws.com/MDIslam.png)
+
 
 <h2> Connect with me:</h2>
 <img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
